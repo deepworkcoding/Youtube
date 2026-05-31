@@ -1,53 +1,14 @@
-# 🚀 Project Name
+# 💻 Built During a Deep Work Coding Session
 
-> Build while listening to Deep Work Coding 🎧
+This project was created while producing content for the Deep Work Coding community.
 
-![License](https://img.shields.io/badge/license-MIT-green)
-![Laravel](https://img.shields.io/badge/Laravel-12-red)
-![Vue](https://img.shields.io/badge/Vue-3-green)
+🎧 Deep Focus Music for Developers
+🚀 Real Programming Projects
+📚 Learn by Building
 
-## 📖 About
+## Watch & Code Along
 
-This project was built as part of the Deep Work Coding series.
-
-Deep Work Coding is a YouTube channel dedicated to:
-- 🎧 Coding Music
-- 💻 Programming Tutorials
-- 📚 Learning Projects
-- 🚀 Developer Productivity
-
----
-
-## 🎬 Watch the Video
-
-👉 YouTube:
+YouTube:
 https://youtube.com/@deepworkcoding
 
----
-
-## ✨ Features
-
-- Authentication
-- Dashboard
-- User Management
-- API Integration
-- Responsive Design
-
----
-
-## 🛠️ Tech Stack
-
-- Laravel
-- Vue.js
-- MySQL
-- Tailwind CSS
-- Vite
-
----
-
-## 📦 Installation
-
-Clone repository:
-
-```bash
-git clone https://github.com/yourname/project.git
+> "Focus Deeply. Learn Continuously. Build Fearlessly."
