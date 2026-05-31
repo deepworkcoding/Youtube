@@ -1,55 +1,44 @@
-# 🚀 Deep Work Coding – Laravel Application
+# 🚀 Deep Work Coding – Laravel Project
 
-> “Code in silence. Build in focus. Ship with confidence.” 💡
+> “Build in focus. Code with purpose.” ⚡
 
-A powerful Laravel-based project built with deep focus and clean architecture.  
-This project is part of the **Deep Work Coding series**, where we build real-world systems step-by-step.
-
----
-
-## 📺 Demo Video
-🎥 Watch full build process on YouTube:  
-👉 https://youtube.com/@YOUR_CHANNEL
+This is a Laravel project built for learning and real-world practice under the **Deep Work Coding** series.
 
 ---
 
 ## ⚡ Tech Stack
-
-- 🧠 Laravel 11+
-- 💾 MySQL / PostgreSQL
-- 🎨 Tailwind CSS / Bootstrap
-- ⚙️ REST API Architecture
-- 🔐 Authentication (Laravel Breeze / Sanctum)
-- 📦 Composer / NPM
+- Laravel
+- MySQL
+- Tailwind CSS
+- REST API
 
 ---
 
-## 🏗️ Features
-
-- 🔐 Login / Register system
-- 👤 User management system
-- 📊 Dashboard analytics
-- 🛒 CRUD system (Products / Orders / etc.)
-- 🔎 Search & filter system
-- 📱 Responsive UI (Mobile + Desktop)
-- ⚡ Fast API response structure
+## ✨ Features
+- User Login / Register
+- Dashboard
+- CRUD System
+- Simple & clean UI
+- Responsive design
 
 ---
 
-## 🧠 Project Philosophy
-
-This project is built using **Deep Work Coding principles**:
-
-- Focus over distraction 🎯  
-- Clean code over messy shortcuts 🧹  
-- Real-world thinking over tutorial copying 🏗️  
-- Consistency over motivation 🔁  
+## 📺 Demo
+Watch full video on YouTube:  
+https://youtube.com/@YOUR_CHANNEL
 
 ---
 
-## 📸 Screenshots
+## ⚙️ Setup
+```bash
+git clone https://github.com/your-repo.git
+cd project
 
-```md
-![Dashboard](./screenshots/dashboard.png)
-![Login](./screenshots/login.png)
-![Table View](./screenshots/table.png)
+composer install
+npm install
+
+cp .env.example .env
+php artisan key:generate
+
+php artisan migrate
+php artisan serve
