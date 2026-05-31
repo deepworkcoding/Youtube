@@ -1,8 +1,8 @@
-# 🚀 Deep Work Coding – Laravel Project
+# 🚀 DeepWorkCoding – Laravel Project
 
 > “Build in focus. Code with purpose.” ⚡
 
-This is a Laravel project built for learning and real-world practice under the **Deep Work Coding** series.
+A Laravel project built for learning, practice, and real-world development under the **DeepWorkCoding** channel.
 
 ---
 
@@ -18,20 +18,21 @@ This is a Laravel project built for learning and real-world practice under the *
 - User Login / Register
 - Dashboard
 - CRUD System
-- Simple & clean UI
-- Responsive design
+- Clean UI
+- Responsive Design
 
 ---
 
 ## 📺 Demo
-Watch full video on YouTube:  
-https://youtube.com/@YOUR_CHANNEL
+YouTube: https://youtube.com/@deepworkcoding  
+TikTok: https://www.tiktok.com/@deepworkcoding  
+GitHub: https://github.com/deepworkcoding  
 
 ---
 
 ## ⚙️ Setup
 ```bash
-git clone https://github.com/your-repo.git
+git clone https://github.com/deepworkcoding/project.git
 cd project
 
 composer install
